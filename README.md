@@ -2,6 +2,6 @@
 
 This is my submission for the SWC Holiday Challenge.
 
-This webpage features the fictional character Santa Claus and gives a brief introduction about him.
+The webpage was coded with HTML/CSS. It features Santa, the fictional figure and mascot of Christmas. 
 
-One notable feature of this project is requesting a holiday card from Santa. The form is powered by Google Forms and Google Forms Apps Script. It sends a customized holiday card to your inbox after you submit the form.
+The form at the bottom is powered by Google Forms and Google Apps Script. Upon submitting the form, you will receive a custom PDF holiday card in your email.
